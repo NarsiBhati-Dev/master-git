@@ -1,6 +1,6 @@
 # Welcome to the Git Course
 
-![Master Git](/images/master-git.jpeg)
+![Master Git](./images/master-git.jpeg)
 
 Thank you for choosing to learn Git with me. I hope this course gives you a solid foundation in version control and helps you manage your projects efficiently.
 
@@ -28,4 +28,4 @@ Happy learning, and let’s get started with Git!
 
 ## What is Git
 
-![what is git](/images/getting-started/what-is-git/banner.jpeg)
+![what is git](./images/getting-started/what-is-git/banner.png)
